@@ -1,3 +1,4 @@
+// 타입 스크립트 기본 타입 정리 (primitive types) ==========
 let name: string = "kim";
 // 타입 지정은 자동으로 됨 -> 타입 지정 문법 생략 가능
 let name2 = "jeong";
