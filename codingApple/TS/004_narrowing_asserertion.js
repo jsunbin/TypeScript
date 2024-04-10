@@ -1,3 +1,4 @@
+"use strict";
 // 타입 확정하기 Narrowing & Assertion ==========
 // Narrowing
 function 내함수(x) {

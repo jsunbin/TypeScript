@@ -1,3 +1,4 @@
+"use strict";
 var animal = "panda";
 var animal2 = { name: "fu", age: 4 };
 // const: 절대 바꿀 수 없는 변수를 만들 때 =====

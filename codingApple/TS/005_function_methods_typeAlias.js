@@ -1,3 +1,4 @@
+"use strict";
 function 함수() { }
 var ABC = function (x, y) {
     return x + y;

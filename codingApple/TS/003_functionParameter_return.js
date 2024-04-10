@@ -1,3 +1,4 @@
+"use strict";
 // 함수에 타입 지정하는 법 & void 타입 ==========
 function 함수(x) {
     return x * 2;
